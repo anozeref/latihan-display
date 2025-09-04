@@ -1,0 +1,31 @@
+body {
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Calibri; 
+}
+.container{
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 5px;
+    overflow: auto;
+}
+.kiri {
+    width: 25%;
+    height: 200px;
+    background-color: orange;
+    float: left;
+} 
+.tengah {
+    width: 50%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+}
+.kanan {
+    width: 25%;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
