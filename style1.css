@@ -19,27 +19,27 @@ footer {
 }
 
 .container{
-    width: 500px;
-    height: 800px;
+    width: 600px;
+    height: 1200px;
     margin: auto;
     padding: 5px;
     overflow: auto;
 }
 .kiri {
-    width: 25%;
-    height: 200px;
+    width: 20%;
+    height: 400px;
     background-color: orange;
     float: left;
 } 
 .tengah {
-    width: 50%;
-    height: 200px;
+    width: 60%;
+    height: 400px;
     background-color: yellow;
     float: left;
 }
 .kanan {
-    width: 25%;
-    height: 200px;
+    width: 20%;
+    height: 400px;
     background-color: green;
     float: left;
 }
